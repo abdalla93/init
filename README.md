@@ -4,7 +4,7 @@
 -[x] scaffold basic ui with mock data
 -[x] Tidy up build process ...
 -[x] actually set up a database
--[] attach databast to UI
+-[x] attach databast to UI
 -[] add authentication
 -[] add image upload
 -[] Error mangement
