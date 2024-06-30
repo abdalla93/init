@@ -1,7 +1,7 @@
 ## TODO 
 
--[] Make it deploy
--[] scaffold basic ui with mock data
+-[x] Make it deploy
+-[X] scaffold basic ui with mock data
 -[] actually set up a database
 -[] attach databast to UI
 -[] add authentication
